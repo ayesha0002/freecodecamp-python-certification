@@ -1,6 +1,5 @@
 # Project 1: User Configuration Manager
 
-## Overview
 A Python-based User Configuration Manager developed as part of the freeCodeCamp Python Certification. This project allows users to manage configuration preferences through a dictionary.
 
 ## Features
