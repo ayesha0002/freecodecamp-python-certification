@@ -1,4 +1,4 @@
-# Budget App
+# Project 2: Budget App
 
 A Python-based budget tracking application that manages spending across different categories.
 
